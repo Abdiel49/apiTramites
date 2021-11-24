@@ -1,0 +1,76 @@
+[{
+    "id": 0,
+    "nombre": "@CambioCarrera",
+    "titulo": "Cambio de Carrera",
+    "descripcion": "El estudiante universitario que desee realizar el cambio de carrera a una carrera o programa, deberá presentar en el Departamento de Registros e Inscripciones la siguiente documentación en sobre manila tamaño oficio rotulado con el código SIS, nombre completo, cédula de identidad, carrera a la que postula y gestión",
+    "requisitos" : [
+        {
+            "id": 0,
+            "requisito": "Matrícula de la gestión anterior."
+        },
+        {
+            "id": 1,
+            "requisito": "Ser alumno regular en la carrera actual."
+        },
+        {
+            "id": 2,
+            "requisito": "Haber cursado dos semestres o un año académico en la carrera o programa de origen como mínimo."
+        },
+        {
+            "id": 3,
+            "requisito": "Kardex firmado por el decano y director de carrera que acredite la aprobación de al menos tres materias convalidables en la carrera o programa de destino."
+        },
+        {
+            "id": 4,
+            "requisito": "Fotocopia de cédula de identidad (confrontada con la original por la sección de archivos)."
+        },
+        {
+            "id": 5,
+            "requisito": "Certificado de la biblioteca de la Facultad acreditando que no debe libros."
+        } 
+    ]
+},
+{
+    "id": 1,
+    "nombre": "@CertAcad",
+    "titulo": "Certificado Académico",
+    "descripcion": "Los documentos que se mencionaran acontinuación deber ser presentados en archivador rapido. La entrega del diploma es personal con cedula de identidad vigente o declaración jurada para papás y hermanos para terceras personas con poder notariado exclusivo para el recojo del certificado.",
+    "requisitos": [
+        {
+            "id": 0,
+            "requisito": "Formulario de solicitud para Certificado Académico (Sección Trámites)."
+        },
+        {
+            "id": 1,
+            "requisito": "Certificado de Nacimiento Original (actualizado)."
+        },
+        {
+            "id": 2,
+            "requisito": "Certificado de Notas."
+        },
+        {
+            "id": 3,
+            "requisito": "Certificado Conclusión del Plan de Estudios (extendido por Registros e Inscripciones)."
+        },
+        {
+            "id": 4,
+            "requisito": "Diploma de Bachiller (fotocopia legalizada por Sección Archivos)."
+        },
+        {
+            "id": 5,
+            "requisito": "Cédula de Identidad (fotocopia legalizada por Sección Archivos)."
+        },
+        {
+            "id": 6,
+            "requisito": "Resolución Consejo Facultativo (fotocopia)."
+        },
+        {
+            "id": 7,
+            "requisito": "Dos fotografías actuales 4x5 fondo rojo. Varones: Traje formal. Damas: Camisa blanca."
+        },
+        {
+            "id": 8,
+            "requisito": "Derecho de Impresión Bs. 458.-"
+        }
+    ]   
+}]

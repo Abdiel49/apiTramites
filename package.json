@@ -1,0 +1,26 @@
+{
+  "name": "apitramites",
+  "version": "1.0.0",
+  "description": "api para la apliacion de tramites umss",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Abdiel49/apiTramites.git"
+  },
+  "author": "agile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdiel49/apiTramites/issues"
+  },
+  "homepage": "https://github.com/Abdiel49/apiTramites#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
