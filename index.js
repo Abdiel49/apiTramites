@@ -1,9 +1,13 @@
+const cors = require('cors');
 const express = require('express');
 const data = require('./assets/data');
 
 const app = express();
 const port = 3000;
 const URL= 'http://localhost';
+app.use(cors({
+  origin: '*'
+}));
 
 app.get('/api/tramites/umss', (req, res) => {
   if(data.length > 0){
