@@ -73,4 +73,148 @@
             "requisito": "Derecho de Impresión Bs. 458.-"
         }
     ]   
+},
+{
+    "id": 2,
+    "nombre": "@EstSimul",
+    "titulo": "Estudio Simultaneo en Dos Carreras",
+    "descripcion": "El estudiante universitario que desee realizar estudio simultáneo en dos carreras o programas, deberá presentar en el Departamento de Registros e Inscripciones la siguiente documentación en sobre manila tamaño oficio rotulado con el nombre completo y carrera simultánea.",
+    "requisitos": [
+        {
+            "id": 0,
+            "requisito": "Deben existir plazas disponibles en la carrera o programa solicitado para el Estudio Simultáneo."
+        },
+        {
+            "id": 1,
+            "requisito": "Tener vencido 60% de las asignaturas del plan de estudios que está cursando en la carrera o programa de origen, cuyo sistema de vencimiento por materias es haber aprobado el 3er Año sin ningún arrastre."
+        },
+        {
+            "id": 2,
+            "requisito": "Haber obtenido un promedio general de calificación igual o mayor a 65 puntos sobre 100 en su carrera o programa de origen."
+        },
+        {
+            "id": 3,
+            "requisito": "No haber accedido a esta modalidad anteriormente."
+        },
+        {
+            "id": 4,
+            "requisito": "Fotocopia de diploma de bachiller legalizada por la institución emisora."
+        },
+        {
+            "id": 5,
+            "requisito": "Fotocopia de cédula de identidad (confrontada con el original por la sección Archivos)."
+        },
+        {
+            "id": 6,
+            "requisito": "Fotocopia de certificado de nacimiento (confrontada con el original por la sección de Archivos)."
+        },
+        {
+            "id": 7,
+            "requisito": "Matricula universitaria de la última gestión cursada."
+        },
+        {
+            "id": 8,
+            "requisito": "Historial o kardex de estudios actualizado y emitido por la carrera de origen."
+        },
+        {
+            "id": 9,
+            "requisito": "Dos Fotografias 4 x 4 cm, fondo rojo o azul."
+        }
+    ]   
+},
+{
+    "id": 3,
+    "nombre": "@AdmisionEsp",
+    "titulo": "Admisión Especial",
+    "descripcion": "El estudiante universitario que desee realizar la admisión especial a una carrera o programa, deberá presentar en el Departamento de Registros e Inscripciones la siguiente documentación en sobre manila tamaño oficio rotulado con el código SIS, nombre completo, cédula de identidad, carrera a la que postula y gestión.",
+    "requisitos": [
+        {
+            "id": 0,
+            "requisito": "Fotocopia de cedula de identidad (confrontada con la original por la sección de archivos)."
+        },
+        {
+            "id": 1,
+            "requisito": "Fotocopia de certificado de nacimiento (confrontada con la original por la sección de archivos)"
+        },
+        {
+            "id": 2,
+            "requisito": "Fotocopia de diploma de bachiller, legalizada por la institución emisora."
+        },
+        {
+            "id": 3,
+            "requisito": "Dos Fotografias 4 x 4 cm, fondo rojo o azul."
+        },
+        {
+            "id": 4,
+            "requisito": "Titulo profesional fotocopia legalizada por la institución emisora."
+        }
+    ]   
+},
+{
+    "id": 4,
+    "nombre": "@CarnetUniv",
+    "titulo": "Habilitación para el Carnet Universitario",
+    "descripcion": "El carnet universitario es un documento único e intransferible que sirve para identificar la condicion del estudiante como miembro de la comunidad universitaria de San Simón y es emitido por la Dirección Universitaria de Bienestar Estudiantil(DUBE) en coordinación con el Departamento de Registros e Inscripciones de la Universidad Mayor de San Simón a todo estudiante regular.",
+    "requisitos": [
+        {
+            "id": 0,
+            "requisito": "Estar inscrito en el periodo actual."
+        },
+        {
+            "id": 1,
+            "requisito": "Haber presentado toda la documentación de su admisión en el Departamento de Registros e Inscripciones (Fotocopia legalizada de diploma de bachiller, Fotocopia legalizada de cédula de identidad, Fotocopia legalizada de certificado de nacimiento)."
+        }
+    ]   
+},
+{
+    "id": 5,
+    "nombre": "@ConvMaterias",
+    "titulo": "Convalidación de Materias",
+    "descripcion": "El estudiante universitario que desee realizar la convalidación de materias, ya sea por cambio de plan de estudios (malla antigua a malla nueva), cambio de carrera, estudio simultáneo, admisión especial dentro la UMSS. Podrá presentar en el Departamento de Registros e Inscripciones la siguiente documentación.",
+    "requisitos": [
+        {
+            "id": 0,
+            "requisito": "Fotocopia de cedula de identidad (confrontada con la original por la sección de archivos)."
+        },
+        {
+            "id": 1,
+            "requisito": "Certificado de Notas Original."
+        },
+        {
+            "id": 2,
+            "requisito": "Programas analíticos, legalizados en la carrera de origen."
+        },
+        {
+            "id": 3,
+            "requisito": "Carga horaria original."
+        },
+        {
+            "id": 4,
+            "requisito": "Fotocopia del tramite si corresponde (cambio de carrera, admisión especial, estudio simultáneo)."
+        }
+    ]   
+},
+{
+    "id": 6,
+    "nombre": "@CertNotas",
+    "titulo": "Certificado de Notas",
+    "descripcion": "El estudiante universitario que desee realizar la solicitud de certificado de notas en el departamento de Registros e Inscripciones deben presentar los siguiente requisitos.",
+    "requisitos": [
+        {
+            "id": 0,
+            "requisito": "Solicitud de Certificación de Notas (formulario llenado en www.drei.umss.edu.bo)."
+        },
+        {
+            "id": 1,
+            "requisito": "Kardex de notas firmado por el Director de Carrera, Director Académico y/o Decano."
+        },
+        {
+            "id": 2,
+            "requisito": "Fotocopia simple de acta de defensa (en caso de trámite de Diploma Académico y/o Titulo Profesional)."
+        },
+        {
+            "id": 3,
+            "requisito": "Fotocopia simple de cedula de identidad."
+        }
+    ]   
 }]
