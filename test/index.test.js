@@ -16,7 +16,7 @@ describe('Pruebas de Enpoints en la API de tramites', () => {
       response.should.have.status(200);
       response.body.should.be.a('array');
       response.body.length.should.not.be.eq(0);
-      response.body.length.should.be.eq(2);
+      response.body.length.should.be.eq(data.length);
       done();
     })
   });
@@ -40,17 +40,6 @@ describe('Pruebas de Enpoints en la API de tramites', () => {
       response.body.data.requisitos.length.should.be.eq( data[id].requisitos.length );
       response.body.data.requisitos.length.should.not.be.eq( 0 );
       response.body.data.id.should.be.eq( id );
-      done();
-    })
-  });
-
-  it('Pruebas en "/api/tramites/umss/:id" error id - return 404', ( done )=>{
-    const id = 2;
-    chai.request(server)
-    .get(`/api/tramites/umss/${ id }`)
-    .end(( err, response)=>{
-      response.should.have.status(404);
-      response.body.should.be.a('object');
       done();
     })
   });
