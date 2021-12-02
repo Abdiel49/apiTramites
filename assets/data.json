@@ -3,6 +3,16 @@
     "nombre": "@CambioCarrera",
     "titulo": "Cambio de Carrera",
     "descripcion": "El estudiante universitario que desee realizar el cambio de carrera a una carrera o programa, deberá presentar en el Departamento de Registros e Inscripciones la siguiente documentación en sobre manila tamaño oficio rotulado con el código SIS, nombre completo, cédula de identidad, carrera a la que postula y gestión",
+    "mapData":{
+        "haveLocation": true,
+        "location": {
+          "latitude":-17.39411727526797, 
+          "longitude":-66.14756767858125
+        },
+        "stepTitle": "Dep. de Registros e Inscripciones",
+        "locationTitle": "Departamento de Registros e Inscripciones",
+        "description": "Detras del edificio Multiacademico, en las ventanillas"
+    },
     "requisitos" : [
         {
             "id": 0,
@@ -22,7 +32,17 @@
         },
         {
             "id": 4,
-            "requisito": "Fotocopia de cédula de identidad (confrontada con la original por la sección de archivos)."
+            "requisito": "Fotocopia de cédula de identidad (confrontada con la original por la sección de archivos).",
+            "mapData":{
+                "haveLocation": true,
+                "location": {
+                  "latitude":-17.394009961843828, 
+                  "longitude":-66.1477135733854
+                },
+                "stepTitle": "Seccion de archivos",
+                "locationTitle": "Seccion de archivos",
+                "description": "Plata baja, entrando por los pasillos"
+            }
         },
         {
             "id": 5,
